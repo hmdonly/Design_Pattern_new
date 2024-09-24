@@ -1,1 +1,1 @@
-# Design_Pattern_new
+# Design_Pattern_news
